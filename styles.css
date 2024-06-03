@@ -1,0 +1,41 @@
+container {
+  text-align: center;
+  margin-top: 50px;
+  font-family: Arial, sans-serif;
+}
+
+title {
+  font-size: 36px;
+  color: #333;
+  margin-bottom: 20px;
+}
+
+content,
+form-section {
+  margin-bottom: 30px;
+}
+
+description {
+  font-size: 18px;
+  color: #666;
+  margin-bottom: 10px;
+}
+
+btn-change,
+btn-submit {
+  padding: 10px 20px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-top: 10px;
+}
+
+input-name {
+  padding: 10px;
+  font-size: 16px;
+}
+
+result {
+  font-size: 20px;
+  color: #007BFF;
+  margin-top: 20px;
+}
